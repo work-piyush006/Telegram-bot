@@ -19,8 +19,8 @@ from telegram.ext import (
 )
 
 # ================= CONFIG =================
-BOT_TOKEN = "YOUR_BOT_TOKEN"
-ADMIN_ID = 123456789
+BOT_TOKEN = "8431204935:AAF3hoRDAhANjYlb4iWNz52-n1TsNfSYr50"
+ADMIN_ID = 8189463964
 
 QR_PATH = "assets/qr.png"
 UPI_ID = "work.piyush006@Fam"
